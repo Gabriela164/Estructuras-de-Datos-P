@@ -1,2 +1,2 @@
 # Estructuras-de-Datos-P
-Practicas de laboratorio en el curso de EDD con Pedro Ulises
+Practicas de laboratorio en EDD con Pedro Ulises
