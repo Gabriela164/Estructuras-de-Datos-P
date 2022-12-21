@@ -13,3 +13,4 @@ NUMEROS DE CUENTA
 1. compilar ---> javac -d . src/*.java
 2. Ejecutar ---> java Clases.Practica4
 
+Practica NO terminada (la version final la tiene el otro integrante del equipo)
